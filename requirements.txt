@@ -6,3 +6,4 @@ seaborn
 openpyxl
 imbalanced-learn
 xgboost
+tensorflow
